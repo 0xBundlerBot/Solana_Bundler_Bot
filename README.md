@@ -39,6 +39,7 @@ Whether you're looking to launch your own token, manage multiple wallets, or exe
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/29971d32-777f-4819-85af-e8dc7f5cd651" alt="Solana Bundler Dashboard" width="800"/>
+   <img src="https://github.com/user-attachments/assets/9f3b15a0-7958-40d0-9040-311cf514aa31" alt="Wallets Bundler Dashboard" width="800"/>
 </div>
 
 
