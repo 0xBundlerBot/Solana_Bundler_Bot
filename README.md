@@ -38,9 +38,8 @@
 Whether you're looking to launch your own token, manage multiple wallets, or execute trading strategies across the Solana ecosystem, Solana Bundler offers a comprehensive suite of tools to streamline your workflow.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/25053a7c-cfc3-4dcc-b530-6d1db55ff0ce" alt="Solana Bundler Dashboard" width="800"/>
+  <img src="https://github.com/user-attachments/assets/29971d32-777f-4819-85af-e8dc7f5cd651" alt="Solana Bundler Dashboard" width="800"/>
 </div>
-
 
 
 
@@ -77,30 +76,35 @@ Whether you're looking to launch your own token, manage multiple wallets, or exe
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/4e6b3403-3778-4baf-ab0a-c75fe21196f2" width="400" alt="Token Deployment"/>
+        <img src="https://github.com/user-attachments/assets/b7b6b6c9-852c-49d8-b3de-ecb732848f5f" width="400" alt="Token Deployment"/>
         <br/>
         <em>Token Deployment Interface</em>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/9bb8323e-626c-4b64-b1ef-bbd0c143c28c" width="400" alt="Wallet Management"/>
+        <img src="https://github.com/user-attachments/assets/9f3b15a0-7958-40d0-9040-311cf514aa31" width="400" alt="Wallet Management"/>
         <br/>
         <em>Wallet Management Dashboard</em>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/0f6b401a-43ac-4f77-9410-54bc0503b3c6" width="400" alt="Trading Interface"/>
+        <img src="https://github.com/user-attachments/assets/42da0ace-340c-4fdc-9877-862dc4821d8f" width="400" alt="Trading Interface"/>
         <br/>
         <em>Trading Interface</em>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/94510d60-f047-4774-82a0-6bb5ad574f43" width="400" alt="Analytics Dashboard"/>
+        <img src="https://github.com/user-attachments/assets/238a8d43-dfc4-45ff-8c4c-5a2345a80c2a" width="400" alt="Setting Dashboard"/>
         <br/>
         <em>Setting Dashboard</em>
       </td>
     </tr>
   </table>
 </div>
+
+
+
+
+
 
 ## 🛠️ Installation
 
@@ -208,8 +212,9 @@ Security is a top priority in Solana Bundler:
 ## 📊 Technical Architecture
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4bcccde4-96dc-401a-be35-1e0a4d867aac" alt="Technical Architecture" width="800"/>
+  <img src="https://github.com/user-attachments/assets/d4a12935-96dd-4c2b-9522-69b52036d17c" alt="Technical Architecture" width="800"/>
 </div>
+
 
 
 
