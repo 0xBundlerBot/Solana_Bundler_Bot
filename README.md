@@ -121,7 +121,7 @@ Whether you're looking to launch your own token, manage multiple wallets, or exe
 
 - Node.js (v16.0.0 or higher)
 - npm or yarn
-- Modern web browser (Chrome, Firefox, Edge, or Safari)
+
 
 ### Installation Steps
 
