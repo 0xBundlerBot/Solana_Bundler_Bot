@@ -39,9 +39,15 @@ Whether you're looking to launch your own token, manage multiple wallets, or exe
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/29971d32-777f-4819-85af-e8dc7f5cd651" alt="Solana Bundler Dashboard" width="800"/>
-  - **Wallets Management
-   <img src="https://github.com/user-attachments/assets/9f3b15a0-7958-40d0-9040-311cf514aa31" alt="Wallets Bundler Dashboard" width="800"/>
+  <br/>
+  <sub><b>Figure 1:</b> Solana Bundler Dashboard Overview</sub>
+  <br/><br/>
+
+  <img src="https://github.com/user-attachments/assets/9f3b15a0-7958-40d0-9040-311cf514aa31" alt="Wallets Bundler Dashboard" width="800"/>
+  <br/>
+  <sub><b>Figure 2:</b> Wallet Management Dashboard – Shows active wallets, balances, and bundling status</sub>
 </div>
+
 
 
 
