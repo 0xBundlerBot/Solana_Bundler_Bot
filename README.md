@@ -256,10 +256,8 @@ For support or inquiries, please open an issue on this repository or contact the
 
 <div align="center">
   
-  Made with ❤️ by [Solana Dev Bundler]
+  Made with ❤️ by [0xBundlerBot]
   
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers"/>
-  </a>
+
   
 </div>
