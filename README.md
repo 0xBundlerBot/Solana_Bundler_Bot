@@ -6,7 +6,7 @@
 
   ### Token Deployment & Management Platform
   
-  **[🌐 Visit Website](https://sol-bun.vercel.app/)**
+  **[🌐 Visit Website](https://www.solanabundler.fun/)**
 
   [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
   [![Solana](https://img.shields.io/badge/Solana-v1.14-blueviolet)](https://solana.com/)
@@ -258,7 +258,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support or inquiries, please open an issue on this repository or contact the maintainers:
 
-- **Website**: [https://www.solanabundler.app/](https://sol-bun.vercel.app/)
+- **Website**: [https://www.solanabundler.app/](https://www.solanabundler.fun/)
 - **Telegram**: [@solanadevbundler](https://t.me/solanadevbundler)
 - **Email**: support@solanabundler.com
 
