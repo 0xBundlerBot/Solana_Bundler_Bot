@@ -10,7 +10,7 @@ export function getWallet(wallet: string): Keypair {
     return Keypair.fromSecretKey(raw);
   }
 
-  // most likely someone pasted mnemonic
+  // most likely someone pasted mnemonic 
   if (wallet.split(' ').length > 1) {
     const seed = mnemonicToSeedSync(wallet, '');
     const path = `m/44'/501'/0'/0'`; // we assume it's first path
