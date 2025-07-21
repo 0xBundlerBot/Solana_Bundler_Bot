@@ -2,7 +2,7 @@ const path = require('path');
 const webpack = require('webpack');
 
 module.exports = {
-  mode: process.env.NODE_ENV || 'development',
+  mode: process.env.NODE_ENV || 'development', 
   entry: './src/index.tsx',
   output: {
     path: path.resolve(__dirname, '../build'),
