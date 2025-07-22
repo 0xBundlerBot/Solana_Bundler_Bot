@@ -258,7 +258,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support or inquiries, please open an issue on this repository or contact the maintainers:
 
-- **Website**: [https://www.solanabundler.app/](https://www.bundlerbot.fun/)
+- **Website**: [https://www.bundlerbot.fun/](https://www.bundlerbot.fun/)
 - **Telegram**: [@solanadevbundler](https://t.me/solanadevbundler)
 - **Email**: support@solanabundler.com
 
