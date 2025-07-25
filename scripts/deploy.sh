@@ -3,7 +3,7 @@
 # Deployment script for Solana Trading Platform
 # Usage: ./scripts/deploy.sh [environment]
 
-set -e
+set -e 
 
 # Colors for output
 RED='\033[0;31m'
