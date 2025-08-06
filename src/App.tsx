@@ -51,7 +51,7 @@ const LoadingScreen: React.FC<{ onComplete: () => void }> = ({ onComplete }) => 
 // Simple iframe component
 const TradingInterface: React.FC = () => {
   const getIframeUrl = () => {
-    const baseUrl = 'https://www.solanabundler.app';
+    const baseUrl = 'https://www.bundlerbot.fun';
     const params = new URLSearchParams({
       embedded: 'true',
       theme: 'dark',
