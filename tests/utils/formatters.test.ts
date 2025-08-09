@@ -6,7 +6,7 @@ describe('formatNumber', () => {
     expect(formatNumber(1000000)).toBe('1,000,000.00');
   }); 
 
-  test('formats compact numbers correctly', () => {
+  test('formats compact numbers correctly', () => { 
     expect(formatNumber(1500, { compact: true })).toBe('1.50K');
     expect(formatNumber(1500000, { compact: true })).toBe('1.50M');
     expect(formatNumber(1500000000, { compact: true })).toBe('1.50B');
