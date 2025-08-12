@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Deployment script for Solana Trading Platform
-# Usage: ./scripts/deploy.sh [environment]
+# Usage: ./scripts/deploy.sh [environment] 
 
 set -e 
 
