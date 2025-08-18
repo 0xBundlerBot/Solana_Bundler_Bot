@@ -1,6 +1,6 @@
 import { formatNumber, formatTokenAmount, formatAddress, formatTime } from '../../src/utils/formatters';
 
-describe('formatNumber', () => {
+describe('formatNumber', () => { 
   test('formats regular numbers correctly', () => {
     expect(formatNumber(1234.56)).toBe('1,234.56');
     expect(formatNumber(1000000)).toBe('1,000,000.00');
