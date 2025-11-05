@@ -6,7 +6,7 @@ const path = require('path');
 /**
  * Bundle Analyzer Tool
  * Analyzes the build output and provides insights
- */
+ */ 
 
 class BundleAnalyzer {
   constructor(buildDir = './build') {
