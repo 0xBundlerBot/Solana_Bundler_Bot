@@ -6,7 +6,7 @@ module.exports = {
   entry: './src/index.tsx',
   output: {
     path: path.resolve(__dirname, '../build'),
-    filename: 'static/js/[name].[contenthash:8].js',
+    filename: 'static/js/[name].[contenthash:8].js', 
     chunkFilename: 'static/js/[name].[contenthash:8].chunk.js',
     publicPath: '/',
   },
