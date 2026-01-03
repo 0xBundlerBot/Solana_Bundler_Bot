@@ -13,7 +13,7 @@
   [![React](https://img.shields.io/badge/React-v18.0-blue)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-v4.9-blue)](https://www.typescriptlang.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v3.3-38bdf8)](https://tailwindcss.com/)
-  
+   
 </div>
 
 ## 📋 Table of Contents
