@@ -4,7 +4,7 @@ import Button from '../../src/components/ui/Button';
 
 describe('Button Component', () => {
   test('renders button with text', () => { 
-    render(<Button>Click me</Button>); 
+    render(<Button>Click me</Button>);  
     expect(screen.getByText('Click me')).toBeInTheDocument();
   });
 
